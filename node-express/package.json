@@ -14,9 +14,10 @@
   "author": "Vladislav Kondakov <vladisloove.kondakov@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.3",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
-    "uuid": "^8.3.2"
+    "mongoose": "^5.11.12"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
