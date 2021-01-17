@@ -1,5 +1,0 @@
-{
-    "PORT": 3000,
-    "DATABASE_URL": "mongodb+srv://vkondakov:P0QImxMw8WKTVFT4@cluster0.jv9et.mongodb.net/shop",
-    "TEMPORARY_USER_ID": "6004c1eee0f5001f044e3f54"
-}
